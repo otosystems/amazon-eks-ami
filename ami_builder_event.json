@@ -1,0 +1,8 @@
+[
+        {
+            "Source": "com.ami.builder",
+            "DetailType": "AmiBuilder-EKS-<<Version>>",
+            "Detail": "{ \"AmiStatus\": \"Created\"}",
+            "Resources": [ "<<AMI-ID>>" ]
+        }
+]
